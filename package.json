@@ -1,0 +1,19 @@
+{
+  "name": "scapy",
+  "version": "0.0.1",
+  "description": "scapy is a data2web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scapyWeb/scapy.git"
+  },
+  "author": "scapy.web@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scapyWeb/scapy/issues"
+  },
+  "homepage": "https://github.com/scapyWeb/scapy#readme"
+}
